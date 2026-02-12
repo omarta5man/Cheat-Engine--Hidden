@@ -2,6 +2,7 @@
 
 
 **This is a Cheat Engine version that is hidden from online games (most of them)**
+
 the hex code is edited (using HxD) and every cheat engine sentence is replaced with opera browser
 
 Opera browser has 5 and 6 letters witha space between them
